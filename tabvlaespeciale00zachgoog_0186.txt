@@ -1,0 +1,54 @@
+177
+
+Tabulae praecesstonit annuae fixarum
+in ascenssonem rectane
+
+Problema IX.
+
+Invenire per tabulam pag. CXV et CXVI praecesfionem annuam in
+ascensionemrectem fixae propositae.
+
+Tabula haec constructa est ad punctorum aequinoctialium preo-
+tessionie annuae quantitatem 5q'o7736, disquisitionibus nostrie etu-
+tam, ad annum ¹850· Poterit illico reduci ad annum ¹750 seculi
+elapsi‚auserendo tantummodoe numerio, in hec tabule relatio, quan·
+citatem condentem 0‚'026. '
+
+Cum urgiimento ascensionis rectae in latere, et cum argumento
+declinationis lixae in scente, exquiruntur immediato o tabule quau.
+titatee praecesfiouie competentes, prout monita huic tabulae adscrip-
+to jubent.
+
+Exemplum 1.
+
+Sit praecessio annua sixee π Leonis in ascensionem rectem pro
+enno 1800 ex hec tabula petenda. Asceniio recta hujut sixte eit
+4· 27‚⁰408. ejusdem declinatio borealis 82‘999.
+
+Prodi4⁵ 25·eumarg.decl.bor.2,·999inveoituretab.pro1850 47:724
+... -5⁵ 0· ----------- 472491
+m
+
+Differ. pr⁰ ς’ ················ 0.'233
+Pare proportionalis pro 2‚'4og ...... ·. . . . ο, tte
+
+ἡ
+
+Ergoprodi4⁸ 27,‘408eritpreecesstoedannnmin50 . . . 47,”6ιιΙ
+
+Dimioutio pro 50 annio Q ......... - 0, 0¹3
+
+inde praecess'to annua r Leonis 1000 ......... 47,'599
+Ex soemula pag. 36 sequitur ············ 47, 600
+
+Exemplum 11.
+
+Quaeretnr praecessio annua sinae Fomadond in escensionem rec·
+tam pro enno 1900. Ascensio recta pro initio hujus seculi etit
+
+u· ¹32⁰0²⁰72 et declinatio australia evaeos.
+
+‘ z‘
+
+ 
+
